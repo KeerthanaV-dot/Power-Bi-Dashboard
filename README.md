@@ -1,5 +1,5 @@
 PBI-HR-ANALYTICS.
-# HR-data-analysis
+
 This visualization file showcases the analysis of the HR  data.
 ![PBI-HR-DATA-ANALYSIS](https://github.com/KeerthanaV-dot/Power-Bi-Dashboard/assets/134577191/e0fd8614-a812-4145-90b5-7863db5dc556)
 
